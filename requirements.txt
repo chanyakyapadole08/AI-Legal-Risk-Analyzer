@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+openai
+python-dotenv
+requests
+pymupdf
+pytesseract
+pillow
+sentence-transformers
+faiss-cpu
+numpy
+pdfplumber

@@ -1,0 +1,842 @@
+[
+  {
+    "clause_text": "Either party may terminate this Agreement by giving thirty (30) days prior written notice to the other party.",
+    "clause_type": "Termination",
+    "risk_label": "LOW",
+    "issue": "Balanced termination notice",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employer may terminate the employee immediately without giving any notice period or compensation.",
+    "clause_type": "Termination",
+    "risk_label": "HIGH",
+    "issue": "Termination without notice",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The company may terminate employment at its sole discretion without assigning any reason.",
+    "clause_type": "Termination",
+    "risk_label": "HIGH",
+    "issue": "Sole discretion termination",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employer may terminate employment for proven gross misconduct without notice, provided written reasons for termination are given to the employee.",
+    "clause_type": "Termination",
+    "risk_label": "LOW",
+    "issue": "Termination for gross misconduct",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee may resign only after serving a notice period of ninety (90) days, while the employer may terminate employment immediately.",
+    "clause_type": "Termination",
+    "risk_label": "HIGH",
+    "issue": "Unequal termination rights",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Either party may terminate this Agreement for material breach if the breach is not cured within fifteen (15) days after written notice.",
+    "clause_type": "Termination",
+    "risk_label": "LOW",
+    "issue": "Termination with cure period",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The company may terminate this Agreement at any time without notice if it believes the employee's performance is unsatisfactory.",
+    "clause_type": "Termination",
+    "risk_label": "HIGH",
+    "issue": "Performance termination without notice",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Employment may be terminated after written warning and a reasonable opportunity to improve performance within thirty (30) days.",
+    "clause_type": "Termination",
+    "risk_label": "LOW",
+    "issue": "Performance cure opportunity",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employer may dismiss the employee forthwith without enquiry, hearing, or notice for any alleged breach of company policy.",
+    "clause_type": "Termination",
+    "risk_label": "HIGH",
+    "issue": "Immediate dismissal without due process",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Termination for cause shall require written notice stating the grounds of termination, except where immediate termination is required due to proven fraud or gross misconduct.",
+    "clause_type": "Termination",
+    "risk_label": "LOW",
+    "issue": "Defined termination for cause",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee shall pay a penalty of Rs. 2 lakhs if employment is terminated before completion of two years.",
+    "clause_type": "Penalty",
+    "risk_label": "HIGH",
+    "issue": "Excessive employee penalty",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee shall reimburse only actual documented training costs on a proportionate basis if employment is voluntarily terminated within six months of training.",
+    "clause_type": "Penalty",
+    "risk_label": "LOW",
+    "issue": "Proportionate training cost recovery",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "If the employee leaves employment before one year, the employee shall pay liquidated damages equal to twelve months of salary.",
+    "clause_type": "Penalty",
+    "risk_label": "HIGH",
+    "issue": "Excessive liquidated damages",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "If the employee resigns within three months of company-sponsored certification, the company may recover the actual certification fee paid to the training provider.",
+    "clause_type": "Penalty",
+    "risk_label": "LOW",
+    "issue": "Actual training fee recovery",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The company may deduct any amount it considers appropriate from the employee's salary for breach of discipline.",
+    "clause_type": "Penalty",
+    "risk_label": "HIGH",
+    "issue": "Unilateral salary deduction",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Salary deductions, if any, shall be made only as permitted by applicable law and after written notice to the employee.",
+    "clause_type": "Penalty",
+    "risk_label": "LOW",
+    "issue": "Lawful salary deduction",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee shall be liable to compensate the company for all training, recruitment, onboarding, and administrative costs if the employee resigns within two years.",
+    "clause_type": "Penalty",
+    "risk_label": "HIGH",
+    "issue": "Broad cost recovery",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Any training cost recovery shall be limited to reasonable documented expenses directly incurred for specialized external training.",
+    "clause_type": "Penalty",
+    "risk_label": "LOW",
+    "issue": "Limited training cost recovery",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The company may impose penalties on the employee as decided by management from time to time.",
+    "clause_type": "Penalty",
+    "risk_label": "HIGH",
+    "issue": "Management-determined penalty",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Any disciplinary penalty shall be imposed only after written notice, an opportunity to respond, and compliance with applicable employment law.",
+    "clause_type": "Penalty",
+    "risk_label": "LOW",
+    "issue": "Due process for penalty",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee shall not work for any competing business anywhere in India for three years after leaving employment.",
+    "clause_type": "Non-Compete",
+    "risk_label": "HIGH",
+    "issue": "Long post-employment non-compete",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "For one year after termination, the employee shall not solicit customers with whom the employee had direct business contact during employment.",
+    "clause_type": "Non-Solicitation",
+    "risk_label": "MEDIUM",
+    "issue": "Limited client non-solicitation",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee shall not engage in any business similar to the company directly or indirectly for five years worldwide.",
+    "clause_type": "Non-Compete",
+    "risk_label": "HIGH",
+    "issue": "Worldwide long non-compete",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee shall not misuse confidential information or trade secrets after termination of employment.",
+    "clause_type": "Confidentiality",
+    "risk_label": "LOW",
+    "issue": "Confidential information protection",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee shall not contact any client of the company after employment for any purpose whatsoever.",
+    "clause_type": "Non-Solicitation",
+    "risk_label": "HIGH",
+    "issue": "Overbroad client restriction",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee shall not solicit company employees to join a competing business for twelve (12) months after termination.",
+    "clause_type": "Non-Solicitation",
+    "risk_label": "MEDIUM",
+    "issue": "Employee non-solicitation",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee shall not accept employment from any client, vendor, partner, competitor, or associate of the company for three years.",
+    "clause_type": "Non-Compete",
+    "risk_label": "HIGH",
+    "issue": "Overbroad employment restriction",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Post-employment restrictions shall apply only to solicitation of active clients and shall not restrict general employment opportunities.",
+    "clause_type": "Non-Solicitation",
+    "risk_label": "LOW",
+    "issue": "Balanced post-employment restriction",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee shall not open a similar nature company for three years directly or indirectly after leaving employment.",
+    "clause_type": "Non-Compete",
+    "risk_label": "HIGH",
+    "issue": "Long non-compete",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee may work in the same industry after employment provided that the employee does not disclose confidential information or solicit existing clients.",
+    "clause_type": "Non-Compete",
+    "risk_label": "LOW",
+    "issue": "Permitted industry employment",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee shall maintain confidentiality forever without any exception, limitation, or permitted disclosure.",
+    "clause_type": "Confidentiality",
+    "risk_label": "HIGH",
+    "issue": "Unlimited confidentiality",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee shall maintain confidentiality for three years after termination, except for information that is public, independently developed, or required to be disclosed by law.",
+    "clause_type": "Confidentiality",
+    "risk_label": "LOW",
+    "issue": "Balanced confidentiality duration",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee shall not disclose trade secrets for as long as such information remains legally protected as trade secret information.",
+    "clause_type": "Confidentiality",
+    "risk_label": "LOW",
+    "issue": "Trade secret protection",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee shall keep all business information confidential during and after employment without any time limit.",
+    "clause_type": "Confidentiality",
+    "risk_label": "MEDIUM",
+    "issue": "Broad confidentiality duration",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Confidential information shall exclude information that becomes public through no fault of the employee or is required to be disclosed by law.",
+    "clause_type": "Confidentiality",
+    "risk_label": "LOW",
+    "issue": "Confidentiality exceptions",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee shall be liable for any disclosure of company information whether intentional, accidental, direct, or indirect, without limitation.",
+    "clause_type": "Confidentiality",
+    "risk_label": "HIGH",
+    "issue": "Unlimited confidentiality liability",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Each party shall protect confidential information using reasonable care and shall notify the other party of unauthorized disclosure.",
+    "clause_type": "Confidentiality",
+    "risk_label": "LOW",
+    "issue": "Reasonable confidentiality obligation",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The receiving party shall not disclose confidential information except to employees or advisors who need to know and are bound by confidentiality duties.",
+    "clause_type": "Confidentiality",
+    "risk_label": "LOW",
+    "issue": "Permitted disclosure to advisors",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee shall not use any information learned during employment for any purpose after termination, even if such information is generally known.",
+    "clause_type": "Confidentiality",
+    "risk_label": "HIGH",
+    "issue": "Overbroad information restriction",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Confidentiality obligations shall not prevent the employee from using general skills, experience, and knowledge acquired during employment.",
+    "clause_type": "Confidentiality",
+    "risk_label": "LOW",
+    "issue": "General skills carve-out",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "All ideas, inventions, works, or intellectual property created by the employee at any time shall be the exclusive property of the company.",
+    "clause_type": "Intellectual Property",
+    "risk_label": "HIGH",
+    "issue": "Overbroad IP ownership",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "All intellectual property created by the employee during employment using company resources or relating to company business shall belong to the company.",
+    "clause_type": "Intellectual Property",
+    "risk_label": "LOW",
+    "issue": "Employment-related IP ownership",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee retains ownership of intellectual property created before employment or outside employment without using company resources.",
+    "clause_type": "Intellectual Property",
+    "risk_label": "LOW",
+    "issue": "Pre-existing IP protection",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee irrevocably assigns all present and future intellectual property rights to the company without additional consideration.",
+    "clause_type": "Intellectual Property",
+    "risk_label": "HIGH",
+    "issue": "Irrevocable IP assignment",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The company shall own source code developed by the employee as part of assigned employment duties.",
+    "clause_type": "Intellectual Property",
+    "risk_label": "LOW",
+    "issue": "Assigned work product ownership",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The company may claim ownership over all software, hardware, designs, ideas, notes, and concepts developed by the employee whether or not related to company business.",
+    "clause_type": "Intellectual Property",
+    "risk_label": "HIGH",
+    "issue": "Overbroad work product ownership",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Employee inventions created independently outside working hours without using company confidential information shall remain the employee's property.",
+    "clause_type": "Intellectual Property",
+    "risk_label": "LOW",
+    "issue": "Independent invention carve-out",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee shall execute reasonable documents required to confirm company ownership of employment-related intellectual property.",
+    "clause_type": "Intellectual Property",
+    "risk_label": "LOW",
+    "issue": "IP documentation obligation",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee waives all moral rights and author rights in all works created before, during, and after employment.",
+    "clause_type": "Intellectual Property",
+    "risk_label": "HIGH",
+    "issue": "Broad waiver of rights",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee grants the company a limited license to use employee-owned background materials only as necessary for company business.",
+    "clause_type": "Intellectual Property",
+    "risk_label": "LOW",
+    "issue": "Limited background IP license",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employer may modify the employment agreement or company policies from time to time and such changes shall apply immediately.",
+    "clause_type": "Amendment",
+    "risk_label": "HIGH",
+    "issue": "Unilateral policy modification",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Any amendment to this Agreement shall be valid only if made in writing and signed by both parties.",
+    "clause_type": "Amendment",
+    "risk_label": "LOW",
+    "issue": "Mutual written amendment",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The company guidelines may be updated after reasonable notice to employees, provided such changes do not reduce existing contractual rights without consent.",
+    "clause_type": "Amendment",
+    "risk_label": "LOW",
+    "issue": "Policy update with notice",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employer may change salary structure, work location, job role, and benefits at any time without employee consent.",
+    "clause_type": "Amendment",
+    "risk_label": "HIGH",
+    "issue": "Unilateral employment changes",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Changes to job duties may be made based on business needs after reasonable notice to the employee.",
+    "clause_type": "Amendment",
+    "risk_label": "MEDIUM",
+    "issue": "Variable duties with notice",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Company rules shall be binding on employees immediately upon publication, whether or not communicated individually.",
+    "clause_type": "Amendment",
+    "risk_label": "HIGH",
+    "issue": "Binding rules without notice",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Company policies shall be communicated to employees by email or internal portal before becoming applicable.",
+    "clause_type": "Amendment",
+    "risk_label": "LOW",
+    "issue": "Policy communication requirement",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employer reserves full rights to alter employment terms as and when required.",
+    "clause_type": "Amendment",
+    "risk_label": "HIGH",
+    "issue": "Broad unilateral amendment right",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Material changes to employment terms shall require prior written consent of both employer and employee.",
+    "clause_type": "Amendment",
+    "risk_label": "LOW",
+    "issue": "Mutual consent for material changes",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee shall comply with company policies as updated from time to time, provided such policies are lawful and communicated in writing.",
+    "clause_type": "Amendment",
+    "risk_label": "MEDIUM",
+    "issue": "Policy updates from time to time",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee shall be liable for all losses, damages, costs, and expenses suffered by the company without any limitation.",
+    "clause_type": "Liability",
+    "risk_label": "HIGH",
+    "issue": "Unlimited employee liability",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee shall be responsible only for direct losses caused by proven misconduct or breach, subject to applicable law.",
+    "clause_type": "Liability",
+    "risk_label": "LOW",
+    "issue": "Limited liability for proven misconduct",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The company shall not be liable under any circumstances for any loss suffered by the employee.",
+    "clause_type": "Liability",
+    "risk_label": "HIGH",
+    "issue": "One-sided liability exclusion",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Neither party shall be liable for indirect, incidental, or consequential damages except in cases of fraud or wilful misconduct.",
+    "clause_type": "Liability",
+    "risk_label": "LOW",
+    "issue": "Exclusion of indirect damages",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee shall compensate the company for any grave or remote loss as calculated by management.",
+    "clause_type": "Liability",
+    "risk_label": "HIGH",
+    "issue": "Management-calculated damages",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Liability for employee misconduct shall be limited to actual direct loss proven through due process.",
+    "clause_type": "Liability",
+    "risk_label": "LOW",
+    "issue": "Direct loss limitation",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee shall be personally liable for all claims made by clients against the company arising during employment.",
+    "clause_type": "Liability",
+    "risk_label": "HIGH",
+    "issue": "Broad personal liability",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The company may recover losses from the employee only after establishing negligence, fraud, or wilful misconduct through proper process.",
+    "clause_type": "Liability",
+    "risk_label": "LOW",
+    "issue": "Recovery after due process",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee shall bear losses caused by system failure, customer complaint, or business loss whether or not caused by the employee.",
+    "clause_type": "Liability",
+    "risk_label": "HIGH",
+    "issue": "Liability without fault",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Each party shall remain responsible for losses caused by its own negligence, fraud, or wilful misconduct.",
+    "clause_type": "Liability",
+    "risk_label": "LOW",
+    "issue": "Fault-based liability",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Each party shall indemnify the other for losses arising from its own breach, negligence, fraud, or wilful misconduct, subject to reasonable limits.",
+    "clause_type": "Indemnity",
+    "risk_label": "LOW",
+    "issue": "Mutual capped indemnity",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee shall indemnify and keep indemnified the company against all claims, losses, damages, and expenses without any limit.",
+    "clause_type": "Indemnity",
+    "risk_label": "HIGH",
+    "issue": "Uncapped one-sided indemnity",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The company shall indemnify the employee for claims arising from lawful actions taken within the scope of employment.",
+    "clause_type": "Indemnity",
+    "risk_label": "LOW",
+    "issue": "Employer indemnity for lawful acts",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee shall defend the company against all third-party claims regardless of whether the employee caused the claim.",
+    "clause_type": "Indemnity",
+    "risk_label": "HIGH",
+    "issue": "Indemnity without fault",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Indemnity obligations shall apply only to claims arising from breach, negligence, fraud, or wilful misconduct of the indemnifying party.",
+    "clause_type": "Indemnity",
+    "risk_label": "LOW",
+    "issue": "Fault-based indemnity",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee shall indemnify the company for any loss, whether direct or indirect, actual or remote, arising from employment.",
+    "clause_type": "Indemnity",
+    "risk_label": "HIGH",
+    "issue": "Broad indirect indemnity",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Each party shall promptly notify the other of any claim for which indemnity is sought.",
+    "clause_type": "Indemnity",
+    "risk_label": "LOW",
+    "issue": "Indemnity notice requirement",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The indemnifying party shall not settle any claim without the prior written consent of the indemnified party, not to be unreasonably withheld.",
+    "clause_type": "Indemnity",
+    "risk_label": "LOW",
+    "issue": "Settlement consent requirement",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee's indemnity obligation shall survive forever and apply to all claims of any nature without limitation.",
+    "clause_type": "Indemnity",
+    "risk_label": "HIGH",
+    "issue": "Unlimited survival of indemnity",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Indemnity obligations shall survive termination only for claims arising during the term of employment and subject to applicable limitation periods.",
+    "clause_type": "Indemnity",
+    "risk_label": "LOW",
+    "issue": "Reasonable indemnity survival",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Neither party shall be liable for delay or failure caused by events beyond reasonable control, provided prompt notice is given.",
+    "clause_type": "Force Majeure",
+    "risk_label": "LOW",
+    "issue": "Balanced force majeure",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The company may terminate the agreement due to force majeure without refund, compensation, or liability.",
+    "clause_type": "Force Majeure",
+    "risk_label": "HIGH",
+    "issue": "One-sided force majeure termination",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Force majeure events shall include natural disasters, war, government restrictions, strikes, pandemics, and events beyond reasonable control.",
+    "clause_type": "Force Majeure",
+    "risk_label": "LOW",
+    "issue": "Defined force majeure events",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Only the company may invoke force majeure, and the employee shall have no claim arising from such event.",
+    "clause_type": "Force Majeure",
+    "risk_label": "HIGH",
+    "issue": "One-sided force majeure right",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The affected party shall notify the other party within seven (7) days of a force majeure event and use reasonable efforts to mitigate its impact.",
+    "clause_type": "Force Majeure",
+    "risk_label": "LOW",
+    "issue": "Force majeure notice and mitigation",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "If force majeure continues for more than ninety (90) days, either party may terminate the agreement without penalty.",
+    "clause_type": "Force Majeure",
+    "risk_label": "LOW",
+    "issue": "Balanced long force majeure termination",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The company shall not be required to provide notice or compensation during any force majeure event.",
+    "clause_type": "Force Majeure",
+    "risk_label": "HIGH",
+    "issue": "No notice during force majeure",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Payment obligations already accrued before a force majeure event shall remain payable unless prohibited by law.",
+    "clause_type": "Force Majeure",
+    "risk_label": "LOW",
+    "issue": "Accrued payment protection",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employer may suspend all employee rights during force majeure at its sole discretion.",
+    "clause_type": "Force Majeure",
+    "risk_label": "HIGH",
+    "issue": "Suspension of rights at sole discretion",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Force majeure shall not excuse obligations relating to confidentiality, data protection, or payment already due.",
+    "clause_type": "Force Majeure",
+    "risk_label": "LOW",
+    "issue": "Excluded obligations during force majeure",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Salary shall be paid monthly on or before the seventh day of the following month.",
+    "clause_type": "Payment",
+    "risk_label": "LOW",
+    "issue": "Clear salary payment date",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The company may withhold salary if the employee fails to meet objectives or targets decided by the company.",
+    "clause_type": "Payment",
+    "risk_label": "HIGH",
+    "issue": "Unfair salary withholding",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Performance incentives may be withheld if documented and agreed performance targets are not achieved.",
+    "clause_type": "Payment",
+    "risk_label": "LOW",
+    "issue": "Performance-based incentive withholding",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employer may revise salary and benefits at any time based on management decision.",
+    "clause_type": "Payment",
+    "risk_label": "HIGH",
+    "issue": "Unilateral salary revision",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Salary revisions shall be communicated in writing and shall not reduce fixed salary without employee consent unless permitted by law.",
+    "clause_type": "Payment",
+    "risk_label": "LOW",
+    "issue": "Written salary revision",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee shall not be entitled to salary during the notice period if the employee resigns.",
+    "clause_type": "Payment",
+    "risk_label": "HIGH",
+    "issue": "Salary denial during notice period",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee shall receive salary for all days actually worked, including any applicable notice period served.",
+    "clause_type": "Payment",
+    "risk_label": "LOW",
+    "issue": "Salary for worked period",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Bonus payments are discretionary and may be paid based on company policy and individual performance.",
+    "clause_type": "Payment",
+    "risk_label": "MEDIUM",
+    "issue": "Discretionary bonus",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee shall reimburse the company for all overpaid amounts after receiving written explanation of the overpayment.",
+    "clause_type": "Payment",
+    "risk_label": "LOW",
+    "issue": "Overpayment recovery with explanation",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The company may deduct any amount from salary for any alleged loss without notice.",
+    "clause_type": "Payment",
+    "risk_label": "HIGH",
+    "issue": "Salary deduction without notice",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Any dispute arising under this Agreement shall first be resolved through good faith discussion and then referred to arbitration.",
+    "clause_type": "Dispute Resolution",
+    "risk_label": "LOW",
+    "issue": "Balanced dispute resolution",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "All disputes shall be decided finally by the company's board and such decision shall be binding on the employee.",
+    "clause_type": "Dispute Resolution",
+    "risk_label": "MEDIUM",
+    "issue": "One-sided dispute decision",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The sole arbitrator shall be appointed only by the company and the employee shall have no objection to such appointment.",
+    "clause_type": "Dispute Resolution",
+    "risk_label": "HIGH",
+    "issue": "One-sided arbitrator appointment",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The arbitrator shall be appointed mutually by both parties in accordance with the Arbitration and Conciliation Act, 1996.",
+    "clause_type": "Dispute Resolution",
+    "risk_label": "LOW",
+    "issue": "Mutual arbitrator appointment",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee waives the right to approach any court or authority for any employment-related claim.",
+    "clause_type": "Dispute Resolution",
+    "risk_label": "HIGH",
+    "issue": "Broad waiver of legal rights",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Nothing in this clause shall prevent either party from seeking interim relief from a court of competent jurisdiction.",
+    "clause_type": "Dispute Resolution",
+    "risk_label": "LOW",
+    "issue": "Interim relief preserved",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The decision of management regarding any dispute shall be final and binding on the employee.",
+    "clause_type": "Dispute Resolution",
+    "risk_label": "HIGH",
+    "issue": "Management final decision",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Administrative disputes may be escalated to a neutral committee with representatives of both parties.",
+    "clause_type": "Dispute Resolution",
+    "risk_label": "LOW",
+    "issue": "Neutral internal dispute process",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "All disputes shall be resolved only in a distant jurisdiction selected by the company.",
+    "clause_type": "Dispute Resolution",
+    "risk_label": "MEDIUM",
+    "issue": "Unfair jurisdiction burden",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "This Agreement shall be governed by the laws of India and courts at the mutually agreed jurisdiction shall have authority.",
+    "clause_type": "Governing Law",
+    "risk_label": "LOW",
+    "issue": "Balanced governing law",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee agrees to biometric monitoring and continuous workplace surveillance at all times during employment.",
+    "clause_type": "Privacy/Data",
+    "risk_label": "HIGH",
+    "issue": "Biometric monitoring without safeguards",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Employee personal data shall be collected only for legitimate employment purposes and processed according to applicable data protection laws.",
+    "clause_type": "Privacy/Data",
+    "risk_label": "LOW",
+    "issue": "Balanced data processing",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The company may monitor all employee communications, devices, location, and personal accounts without notice.",
+    "clause_type": "Privacy/Data",
+    "risk_label": "HIGH",
+    "issue": "Overbroad employee surveillance",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The company may monitor company-owned systems for security and compliance after providing notice to employees.",
+    "clause_type": "Privacy/Data",
+    "risk_label": "LOW",
+    "issue": "Limited workplace monitoring",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employee consents to collection and processing of sensitive personal data for any business purpose determined by the company.",
+    "clause_type": "Privacy/Data",
+    "risk_label": "HIGH",
+    "issue": "Broad sensitive data processing",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Sensitive personal data shall be processed only with consent, legal basis, security safeguards, and purpose limitation.",
+    "clause_type": "Privacy/Data",
+    "risk_label": "LOW",
+    "issue": "Data protection safeguards",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The employer may share employee personal data with affiliates, vendors, or third parties without notice.",
+    "clause_type": "Privacy/Data",
+    "risk_label": "HIGH",
+    "issue": "Third-party data sharing without notice",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Employee data may be shared with service providers only for employment-related purposes subject to confidentiality and security obligations.",
+    "clause_type": "Privacy/Data",
+    "risk_label": "LOW",
+    "issue": "Controlled data sharing",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The company shall retain employee data only for as long as required by law or legitimate business purpose.",
+    "clause_type": "Privacy/Data",
+    "risk_label": "LOW",
+    "issue": "Limited data retention",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The company may retain employee personal data permanently for future business purposes.",
+    "clause_type": "Privacy/Data",
+    "risk_label": "HIGH",
+    "issue": "Indefinite data retention",
+    "source": "IndianContracts"
+  }
+]

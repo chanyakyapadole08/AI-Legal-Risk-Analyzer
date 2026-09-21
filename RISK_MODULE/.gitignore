@@ -1,0 +1,34 @@
+# Secrets
+.env
+
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Runtime folders
+temp/
+uploads/
+reports/
+backup_legacy/
+
+# Large raw downloads
+datasets/CUAD/raw_snapshot/
+datasets/LEDGAR/raw/
+datasets/ContractNLI/raw/
+
+# Logs and old exports
+*.log
+*.zip
+RISK_MODULE_CODE_ONLY.txt
+RISK_MODULE_CODE_ONLY.zip
+PROJECT_STRUCTURE.txt
+CLEAN_TREE.txt
+CLEAN_TREE_RELATIVE.txt

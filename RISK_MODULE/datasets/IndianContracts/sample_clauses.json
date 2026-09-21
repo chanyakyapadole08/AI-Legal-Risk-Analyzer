@@ -1,0 +1,62 @@
+[
+  {
+    "clause_text": "Either party may terminate this Agreement by giving thirty days prior written notice to the other party.",
+    "clause_type": "Termination",
+    "risk_label": "LOW",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The company may terminate this Agreement at any time without notice and without compensation.",
+    "clause_type": "Termination",
+    "risk_label": "HIGH",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The total liability of either party shall not exceed the fees paid under this Agreement in the preceding twelve months.",
+    "clause_type": "Limitation of Liability",
+    "risk_label": "LOW",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The service provider shall be liable for all direct, indirect, incidental and consequential damages without any monetary limitation.",
+    "clause_type": "Liability",
+    "risk_label": "HIGH",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Each Party shall keep confidential all non-public information disclosed by the other Party for a period of three years.",
+    "clause_type": "Confidentiality",
+    "risk_label": "LOW",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The receiving party shall maintain confidentiality forever without any exception or limitation.",
+    "clause_type": "Confidentiality",
+    "risk_label": "HIGH",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Each Party shall indemnify the other Party only for losses arising from its breach, negligence, fraud, or wilful misconduct, subject to a reasonable liability cap.",
+    "clause_type": "Indemnity",
+    "risk_label": "LOW",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The purchaser shall indemnify and keep indemnified the seller against all losses, claims, damages and expenses without any limit.",
+    "clause_type": "Indemnity",
+    "risk_label": "HIGH",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "Neither Party shall be liable for delay or failure caused by events beyond reasonable control, provided prompt written notice is given.",
+    "clause_type": "Force Majeure",
+    "risk_label": "LOW",
+    "source": "IndianContracts"
+  },
+  {
+    "clause_text": "The seller may terminate the agreement due to force majeure without refund, interest, compensation, or liability to the purchaser.",
+    "clause_type": "Force Majeure",
+    "risk_label": "HIGH",
+    "source": "IndianContracts"
+  }
+]

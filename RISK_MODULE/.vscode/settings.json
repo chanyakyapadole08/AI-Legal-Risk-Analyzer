@@ -1,0 +1,40 @@
+{
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/*.pyc": true,
+    "**/.pytest_cache": true,
+    "**/.mypy_cache": true,
+
+    "**/venv": true,
+    "**/.venv": true,
+
+    "**/RISK_MODULE/temp": true,
+    "**/RISK_MODULE/reports": true,
+    "**/RISK_MODULE/backup_legacy": true,
+    "**/RISK_MODULE/__pycache__": true,
+
+    "**/RISK_MODULE/datasets/CUAD/raw_snapshot": true,
+    "**/RISK_MODULE/datasets/LEDGAR/raw": true,
+    "**/RISK_MODULE/datasets/ContractNLI/raw": true,
+
+    "**/RISK_MODULE/RISK_MODULE_CODE_ONLY.txt": true,
+    "**/RISK_MODULE/RISK_MODULE_CODE_ONLY.zip": true,
+    "**/RISK_MODULE/PROJECT_STRUCTURE.txt": true,
+    "**/RISK_MODULE/CLEAN_TREE.txt": true,
+    "**/RISK_MODULE/CLEAN_TREE_RELATIVE.txt": true,
+
+    "**/*.zip": true
+  },
+  "search.exclude": {
+    "**/__pycache__": true,
+    "**/*.pyc": true,
+    "**/venv": true,
+    "**/.venv": true,
+    "**/temp": true,
+    "**/reports": true,
+    "**/backup_legacy": true,
+    "**/datasets/CUAD/raw_snapshot": true,
+    "**/datasets/LEDGAR/raw": true,
+    "**/datasets/ContractNLI/raw": true
+  }
+}
